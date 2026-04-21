@@ -1,63 +1,68 @@
 # Hi 👋 I'm Shruti Gaba
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=500&lines=Aspiring+Software+Engineer;UI%2FUX+Designer;Future+Founder;Building+Skills+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=700&lines=Business+Analyst;Product+Thinker;UI%2FUX+Designer;Project+Manager+in+Progress;Turning+Ideas+Into+Execution" />
 </p>
 
 <p align="center">
-🚀 Passionate about building products through <b>code + creativity + smart execution</b>
+🚀 Passionate about building products through <b>strategy + design + execution + data</b>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 Growing as a Software Engineer  
-- 💻 Building real-world coding projects  
-- 🎨 Designing user-first experiences in Figma  
-- 📈 Interested in startups, business & innovation  
-- 🚀 Focused on becoming financially independent  
+- 📊 Interested in Business Analytics & Strategy  
+- 🎨 Designing user-first products in Figma  
+- 📈 Love solving problems using data & insights  
+- 📋 Learning project management & execution systems  
+- 🚀 Focused on building impactful products and businesses  
 
 ---
 
-## 💻 Tech Stack
+## 💼 Core Strengths
+
+- Product Management  
+- Business Analysis  
+- UI/UX Design  
+- Project Coordination  
+- Market Research  
+- Process Improvement  
+- Strategic Thinking  
+
+---
+
+## 🛠 Tools & Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,excel,notion,github,vscode" />
 </p>
+
+- Figma  
+- Excel / Google Sheets  
+- PowerPoint  
+- Notion  
+- GitHub  
+- Research & Documentation  
 
 ---
 
-## 🎨 Design Stack
+## 🚀 Featured Work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-- User Flows  
-- Wireframing  
-- UX Research  
-- Product Design  
-
----
-
-## 🚀 Featured Projects
-
-### 💻 Development
-- Portfolio Website  
-- React Projects  
-- Python Projects  
-- Frontend UI Builds  
-
-### 🎨 Product Design
+### 🎨 Product & Design
 - User Story Mapping  
 - Assessment User Story  
 - Saarthi App Workflow  
 
-### 📈 Growth Projects
-- Startup Research  
-- Product Ideas  
-- Real-world Business Systems  
+### 📊 Business & Strategy
+- Market Research Projects  
+- Growth Planning  
+- Operations Improvement Ideas  
+
+### 📋 Project Management
+- Workflow Planning  
+- Task Systems  
+- Team Coordination Concepts  
 
 ---
 
@@ -65,33 +70,25 @@
 
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutigaba1408-alt&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutigaba1408-alt&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutigaba1408-alt&theme=tokyonight)
-
 ---
 
 ## 🌱 Currently Learning
 
-- Full Stack Development  
-- React Ecosystem  
-- UI/UX Systems  
-- AI Tools  
+- Product Management  
+- Business Analytics  
+- SQL & Dashboards  
+- Project Management Tools  
 - Startup Execution  
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn:linkedin.com/in/shruti-gaba-5b47461a6 
-- Email: Shrutigaba1408@gmail.com 
+- LinkedIn: linkedin.com/in/shruti-gaba-5b47461a6 
+- Email: shrutigaba1408@gmail.com 
 
 ---
 
 ## ⚡ Motto
 
-**Design it. Build it. Scale it.**
+**Think clearly. Design smartly. Execute strongly.**
