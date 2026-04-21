@@ -48,7 +48,19 @@
 ---
 
 ## 🚀 Featured Work
+## 🎨 Featured Product & Design Projects
 
+### 📌 User Story Mapping
+Designed a structured user story map to understand customer needs, identify pain points, and prioritize product features. Focused on improving user experience through clear journey planning.  
+🔗 https://www.figma.com/design/3c020ekcVeeyE8xbftbv7J/User-Story?node-id=0-1&p=f&t=btMVzOvo95tssPmS-0
+
+### 📌 Assessment - User Story
+Created a user flow and task mapping framework for an assessment-based product. Focused on simplifying navigation, reducing friction, and improving task completion experience.  
+🔗 https://www.figma.com/board/sNsEQysAqe9eOhtOhFKlyX/Assessment---User-Story?node-id=0-1&p=f&t=UoAXENrOfIQHNkuG-0
+
+### 📌 Saarthi App Workflow
+Designed an end-to-end workflow for the Saarthi app including onboarding, feature navigation, and service flow. Focused on usability, logical navigation, and smooth user interaction.  
+🔗 https://www.figma.com/design/AV8EX94Wq7afVEJMxAPXCr/Saarthi-App-Workflow?node-id=0-1&p=f&t=PQlrEkKzdEOaiMDE-0
 ### 🎨 Product & Design
 - User Story Mapping  
 - Assessment User Story  
