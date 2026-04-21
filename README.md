@@ -76,14 +76,6 @@ Designed an end-to-end workflow for the Saarthi app including onboarding, featur
 - Task Systems  
 - Team Coordination Concepts  
 
----
-
-## 📊 GitHub Stats
-
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutigaba1408-alt&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌱 Currently Learning
 
 - Product Management  
